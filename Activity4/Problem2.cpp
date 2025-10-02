@@ -24,8 +24,7 @@ using namespace std;
 
 int main(){
 	
-	float Temperature;
-	float Price;
+	float Temperature, Price;
 	
 	cout << "What is the temperature? \n"; //user input temperature
 	cin >> Temperature;
