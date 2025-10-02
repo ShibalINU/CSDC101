@@ -24,8 +24,7 @@ using namespace std;
 
 int main(){
 	
-	float Price = 1;
-	int UserMoney;
+	float Price = 1, UserMoney;
 	
 		cout << "How much money do you have? \n"; //user input, money
 		cin >> UserMoney;
